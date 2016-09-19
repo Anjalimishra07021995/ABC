@@ -1,2 +1,7 @@
 dusri wali file me edit krna h...
 
+version@2.9
+nugat
+Android 
+
+why we are not using android os in laptop
